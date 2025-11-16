@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Xander</h1>
 <h3 align="center">A passionate React developer from South Africa</h3>
 
-- 🔭 I’m currently working on [MetaCrown - Clash Royale Analytics Tracker](https://metacrown.co.za/)
+- 🔭 I’m currently working on my deployed site named [MetaCrown - Clash Royale Analytics Tracker](https://metacrown.co.za/)
 
-- 👯 I'm super proud of my work on [The Drunken Giraffe - Online liquor Store](https://github.com/241322/Drunken-Sailor.git)
+- ⭐ I'm super proud of my work on [The Drunken Giraffe - Online liquor Store](https://github.com/241322/Drunken-Sailor.git)
 
-- 🤝 I’m currently refining [Revvy](https://github.com/241322/revvy_app.git)
+- ✒️ I’m currently refining [Revvy](https://github.com/241322/revvy_app.git)
 
-- 📫 How to reach me **poalsesxander@gmail.com**
+- 📫 How to reach me **poalsesxander@gmail.com** or DM me on Instagram @ [xander.poalses](www.instagram.com/xander.poalses/?__pwa=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
